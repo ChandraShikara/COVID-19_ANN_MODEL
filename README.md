@@ -61,3 +61,7 @@ The model is optimized using:
    ```bash
    git clone https://github.com/yourusername/COVID19_Prediction_ANN.git
    cd COVID19_Prediction_ANN
+2. pip install -r requirements.txt
+3. Download the dataset from the link
+4. jupyter notebook ANN_COVID_DATA.ipynb
+
